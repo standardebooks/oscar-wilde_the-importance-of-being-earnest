@@ -1,0 +1,73 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+abbr.degree{
+	font-variant: all-small-caps;
+}
+
+b{
+	font-weight: normal;
+}
+
+*[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+*[epub|type~="z3998:dramatis-personae"] ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+*[epub|type~="z3998:dramatis-personae"] ul li{
+	margin: 1em;
+	font-style: italic;
+}
+
+*[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+*[epub|type~="z3998:stage-direction"]:before{
+	content: "(";
+	font-style: normal;
+}
+
+*[epub|type~="z3998:stage-direction"]:after{
+	content: ")";
+	font-style: normal;
+}
+
+p[epub|type~="z3998:stage-direction"]{
+	text-align: center;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:persona"]{
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+td[epub|type~="z3998:persona"]{
+	text-align: right;
+	white-space: nowrap;
+}
+
+td{
+	vertical-align: top;
+	padding: .5em;
+}
+
+section[epub|type~="z3998:scene"] > p{
+	margin: 1em auto;
+	width: 75%;
+}
+
+#the-scenes-of-the-play{
+	text-align: center;
+}
+
+#the-scenes-of-the-play table{
+	margin: auto;
+	text-align: left;
+}

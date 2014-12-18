@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-06T05:24:41Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">The Importance of Being Earnest</dc:title>
+		<meta property="file-as" refines="#title">Importance of Being Earnest, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Trivial Comedy for Serious People</dc:title>
+		<meta property="file-as" refines="#subtitle">Trivial Comedy for Serious People, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Importance of Being Earnest: A Trivial Comedy for Serious People</dc:title>
+		<meta property="file-as" refines="#fulltitle">Importance of Being Earnest, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Comedies</dc:subject>
+		<dc:subject id="subject-2">England -- Drama</dc:subject>
+		<dc:subject id="subject-3">Identity (Psychology) -- Drama</dc:subject>
+		<dc:subject id="subject-4">Foundlings -- Drama</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/844</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/844</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/844</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/844</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A comedy skewering Victorian high society.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Importance of Being Earnest&lt;/i&gt; is Oscar Wilde&amp;rsquo;s most popular play today, enduring thanks to its easy humor, witty dialog, and clever satire.  It was also one of his more successful plays, despite its first run being prematurely ended after only 86 performances.  The main characters pretend to be other people in order to escape social obligations, with the resulting confusion of identities driving the plot and the humor behind it.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Earnest&lt;/i&gt; also holds the sad distinction of being Wilde&amp;rsquo;s last published play.  A feud with an aristocrat whose son was Wilde&amp;rsquo;s lover led to a court case revealing Wilde as a homosexual&amp;mdash;a crime in those days, and punishable by imprisonment with hard labor.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/844</dc:source>
+		<meta property="se:word-count">20919</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest</meta>
+		<dc:creator id="author">Oscar Wilde</dc:creator>
+		<meta property="file-as" refines="#author">Wilde, Oscar</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Oscar_Wilde</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="artist">Jacques-Émile Blanche</dc:contributor>
+		<meta property="file-as" refines="#artist">Blanche, Jacques-Émile</meta>
+		<meta property="se:url.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/act-1.xhtml" id="act-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-scenes-of-the-play.xhtml" id="the-scenes-of-the-play.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="the-scenes-of-the-play.xhtml"/>
+		<itemref idref="act-1.xhtml"/>
+		<itemref idref="act-2.xhtml"/>
+		<itemref idref="act-3.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>
