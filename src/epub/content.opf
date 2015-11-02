@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-10-05T23:20:07Z</meta>
+		<meta property="dcterms:modified">2015-11-02T02:21:10Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -83,7 +83,7 @@
 		<item href="text/act-1.xhtml" id="act-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-scenes-of-the-play.xhtml" id="the-scenes-of-the-play.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
