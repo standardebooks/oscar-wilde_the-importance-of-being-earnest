@@ -9,31 +9,31 @@ b{
 	font-weight: normal;
 }
 
-*[epub|type~="z3998:dramatis-personae"]{
+[epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
 
-*[epub|type~="z3998:dramatis-personae"] ul{
+[epub|type~="z3998:dramatis-personae"] ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-*[epub|type~="z3998:dramatis-personae"] ul li{
+[epub|type~="z3998:dramatis-personae"] ul li{
 	margin: 1em;
 	font-style: italic;
 }
 
-*[epub|type~="z3998:stage-direction"]{
+[epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
 
-*[epub|type~="z3998:stage-direction"]:before{
+[epub|type~="z3998:stage-direction"]:before{
 	content: "(";
 	font-style: normal;
 }
 
-*[epub|type~="z3998:stage-direction"]:after{
+[epub|type~="z3998:stage-direction"]:after{
 	content: ")";
 	font-style: normal;
 }
@@ -43,7 +43,7 @@ p[epub|type~="z3998:stage-direction"]{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:persona"]{
+[epub|type~="z3998:persona"]{
 	font-variant: small-caps;
 	text-transform: lowercase;
 }
