@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-18T23:51:49Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,6 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/844</dc:source>
 		<meta property="se:word-count">20919</meta>
+		<meta property="se:reading-ease.flesch">69.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_the-importance-of-being-earnest</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
