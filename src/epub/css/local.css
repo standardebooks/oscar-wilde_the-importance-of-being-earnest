@@ -71,3 +71,7 @@ section[epub|type~="z3998:scene"] > p{
 	margin: auto;
 	text-align: left;
 }
+
+li > :first-child{
+	text-indent: 0;
+}
