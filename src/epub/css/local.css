@@ -44,8 +44,7 @@ p[epub|type~="z3998:stage-direction"]{
 }
 
 [epub|type~="z3998:persona"]{
-	font-variant: small-caps;
-	text-transform: lowercase;
+	font-variant: all-small-caps;
 }
 
 td[epub|type~="z3998:persona"]{
