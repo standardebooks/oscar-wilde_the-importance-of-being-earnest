@@ -9,6 +9,10 @@ b{
 	font-weight: normal;
 }
 
+table{
+	border-collapse: collapse;
+}
+
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
