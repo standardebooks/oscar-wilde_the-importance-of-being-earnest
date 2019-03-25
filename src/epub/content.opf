@@ -97,6 +97,7 @@
 		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-scenes-of-the-play.xhtml" id="the-scenes-of-the-play.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -107,6 +108,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="the-scenes-of-the-play.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
 		<itemref idref="act-3.xhtml"/>
