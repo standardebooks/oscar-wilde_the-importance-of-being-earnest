@@ -54,7 +54,7 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A comedy skewering Victorian high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Importance of Being Earnest&lt;/i&gt; is Oscar Wilde’s most popular play today, enduring thanks to its easy humor, witty dialog, and clever satire. It was also one of his more successful plays, despite its first run being prematurely ended after only 86 performances. The main characters pretend to be other people in order to escape social obligations, with the resulting confusion of identities driving the plot and the humor behind it.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Importance of Being Earnest&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; most popular play today, enduring thanks to its easy humor, witty dialog, and clever satire. It was also one of his more successful plays, despite its first run being prematurely ended after only 86 performances. The main characters pretend to be other people in order to escape social obligations, with the resulting confusion of identities driving the plot and the humor behind it.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Earnest&lt;/i&gt; also holds the sad distinction of being Wilde’s last published play. A feud with an aristocrat whose son was Wilde’s lover led to a court case revealing Wilde as a homosexual—a crime in those days, and punishable by imprisonment with hard labor.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
