@@ -85,6 +85,10 @@ section[epub|type~="z3998:scene"] > p{
 	text-align: center;
 }
 
+#the-scenes-of-the-play > p{
+	text-indent: 0;
+}
+
 #the-scenes-of-the-play table{
 	margin: auto;
 	text-align: left;
