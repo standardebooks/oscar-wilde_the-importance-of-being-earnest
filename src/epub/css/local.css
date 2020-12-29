@@ -91,7 +91,7 @@ section[epub|type~="z3998:scene"] > p{
 
 #the-scenes-of-the-play table{
 	margin: auto;
-	text-align: left;
+	text-align: initial;
 }
 
 li > *:first-child{
