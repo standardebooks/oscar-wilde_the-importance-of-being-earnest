@@ -64,7 +64,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_the-importance-of-being-earnest</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
 		<meta property="file-as" refines="#author">Wilde, Oscar</meta>
-		<meta property="se:name.person.full-name" refines="#author">Oscar Fingal O'Flahertie Wills Wilde</meta>
+		<meta property="se:name.person.full-name" refines="#author">Oscar Fingal O’Flahertie Wills Wilde</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Oscar_Wilde</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79042038</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
