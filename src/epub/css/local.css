@@ -82,17 +82,13 @@ section[epub|type~="z3998:scene"] > p{
 	width: 75%;
 }
 
-#the-scenes-of-the-play{
+#the-scenes-of-the-play p{
 	text-align: center;
-}
-
-#the-scenes-of-the-play > p{
 	text-indent: 0;
 }
 
-#the-scenes-of-the-play table{
-	margin: auto;
-	text-align: initial;
+#the-scenes-of-the-play p:last-child{
+	margin-top: 1em;
 }
 
 li > *:first-child{

@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/844</dc:source>
 		<dc:source>https://archive.org/details/ladywindermeresf00wild</dc:source>
-		<meta property="se:word-count">20905</meta>
+		<meta property="se:word-count">20841</meta>
 		<meta property="se:reading-ease.flesch">69.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_the-importance-of-being-earnest</meta>
