@@ -63,7 +63,7 @@
 		<meta property="schema:wordCount">20536</meta>
 		<meta property="schema:educationalLevel">69.99</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/oscar-wilde_the-importance-of-being-earnest" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
