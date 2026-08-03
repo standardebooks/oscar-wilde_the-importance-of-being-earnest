@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
@@ -52,11 +52,11 @@
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">A comedy skewering Victorian high society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A comedy skewering Victorian high society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Importance of Being Earnest&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; most popular play today, enduring thanks to its easy humor, witty dialog, and clever satire. It was also one of his more successful plays, despite its first run being prematurely ended after only 86 performances. The main characters pretend to be other people in order to escape social obligations, with the resulting confusion of identities driving the plot and the humor behind it.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Earnest&lt;/i&gt; also holds the sad distinction of being Wilde’s last published play. A feud with an aristocrat whose son was Wilde’s lover led to a court case revealing Wilde as a homosexual—a crime in those days, and punishable by imprisonment with hard labor.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/844</dc:source>
 		<dc:source>https://archive.org/details/ladywindermeresf00wild</dc:source>
