@@ -38,9 +38,9 @@
 		<meta property="file-as" refines="#fulltitle">Importance of Being Earnest, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Comedies</dc:subject>
-		<dc:subject id="subject-2">England -- Drama</dc:subject>
-		<dc:subject id="subject-3">Identity (Psychology) -- Drama</dc:subject>
-		<dc:subject id="subject-4">Foundlings -- Drama</dc:subject>
+		<dc:subject id="subject-2">England--Drama</dc:subject>
+		<dc:subject id="subject-3">Identity (Psychology)--Drama</dc:subject>
+		<dc:subject id="subject-4">Foundlings--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh99005572</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
